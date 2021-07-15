@@ -1,0 +1,4 @@
+torch==1.7.1+cu110
+numpy==1.19.2
+gym==0.17.2
+# gym_simple_minigrid==2.0.0 from https://github.com/rafelps/gym-simple-minigrid
