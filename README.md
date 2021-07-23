@@ -1,6 +1,6 @@
 # Learning Recursive Goal Proposal: A Hierarchical Reinforcement Learning approach (LRGP)
 
-Code for my final master thesis [Learning Recursive Goal Proposal: A Hierarchical Reinforcement Learning approach]
+Code for my final master thesis [Learning Recursive Goal Proposal: A Hierarchical Reinforcement Learning approach
 [thesis].
 
 This master thesis presents [Learning Recursive Goal Proposal (LRGP)][thesis], a new hierarchical algorithm based on two
