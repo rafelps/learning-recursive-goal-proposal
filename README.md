@@ -87,23 +87,7 @@ parameter.
 @phdthesis{Palliser Sans_2021,
     title={Learning recursive goal proposal: a hierarchical reinforcement learning approach},
     url={http://hdl.handle.net/2117/348422},
-    abstractNote={Reinforcement Learning's unique way of learning has led to remarkable successes like Alpha Zero or 
-        Alpha Go, mastering the games of Chess and Go, and being able to beat the respective World Champions. 
-        Notwithstanding, Reinforcement Learning algorithms are underused in real-world applications compared to other 
-        techniques such as Supervised or Unsupervised learning. One of the most significant problems that could limit 
-        the applicability of Reinforcement Learning in other areas is its sample inefficiency, i.e., its need for vast 
-        amounts of interactions to obtain good behaviors. Off-policy algorithms, those that can learn a different policy 
-        than the one they use for exploration, take advantage of Replay Buffers to store the gathered knowledge and 
-        reuse it, already making a step into sample efficiency. However, in complex tasks, they still need lots of 
-        interactions with the environment to explore and learn good policies. This master thesis presents Learning 
-        Recursive Goal Proposal (LRGP), a new hierarchical algorithm based on two levels in which the higher one serves 
-        as a goal proposal for the lower one, which interacts with the environment following the proposed goals. The 
-        main idea of this novel method is to break a task into two parts, speeding and easing the learning process. In 
-        addition to this, LRGP implements a new reward system that takes advantage of non-sparse rewards to increase its 
-        sample efficiency by generating more transitions per episode, which are stored and reused thanks to Experience 
-        Replay. LRGP, which has the flexibility to be used with a wide variety of Reinforcement Learning algorithms in 
-        environments of different nature, obtains State-of-the-Art results both in performance and efficiency when 
-        compared to methods such as Double DQN or Soft Actor Critic (SAC) in Simple MiniGrid and Pendulum environments.},
+    abstractNote={Reinforcement Learning's unique way of learning has led to remarkable successes like Alpha Zero or Alpha Go, mastering the games of Chess and Go, and being able to beat the respective World Champions. Notwithstanding, Reinforcement Learning algorithms are underused in real-world applications compared to other techniques such as Supervised or Unsupervised learning. One of the most significant problems that could limit the applicability of Reinforcement Learning in other areas is its sample inefficiency, i.e., its need for vast amounts of interactions to obtain good behaviors. Off-policy algorithms, those that can learn a different policy than the one they use for exploration, take advantage of Replay Buffers to store the gathered knowledge and reuse it, already making a step into sample efficiency. However, in complex tasks, they still need lots of interactions with the environment to explore and learn good policies. This master thesis presents Learning Recursive Goal Proposal (LRGP), a new hierarchical algorithm based on two levels in which the higher one serves as a goal proposal for the lower one, which interacts with the environment following the proposed goals. The main idea of this novel method is to break a task into two parts, speeding and easing the learning process. In addition to this, LRGP implements a new reward system that takes advantage of non-sparse rewards to increase its sample efficiency by generating more transitions per episode, which are stored and reused thanks to Experience Replay. LRGP, which has the flexibility to be used with a wide variety of Reinforcement Learning algorithms in environments of different nature, obtains State-of-the-Art results both in performance and efficiency when compared to methods such as Double DQN or Soft Actor Critic (SAC) in Simple MiniGrid and Pendulum environments.},
     school={UPC, Facultat d'Informàtica de Barcelona, Departament de Ciències de la Computació},
     author={Palliser Sans, Rafel},
     year={2021},
